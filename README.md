@@ -9,7 +9,8 @@ I built the original version by following Bro Code’s Python weather app tutori
 After completing the tutorial, I used AI assistance to expand the application with additional features, improve the interface, and handle requests in the background. This project is part of my ongoing practice with Python, APIs, and desktop application development.
 
 ## How The App Looks
-<img width="479" height="765" alt="image" src="https://github.com/user-attachments/assets/23fb6511-bdb5-4c4a-960a-d707b1f2c7e1" />
+<img width="474" height="760" alt="image" src="https://github.com/user-attachments/assets/3932d2af-d63e-460e-b29d-e333db74eddf" />
+
 
 
 ## Features
